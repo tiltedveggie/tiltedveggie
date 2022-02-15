@@ -6,7 +6,11 @@ What technologies and softwares are you currently working with?
 
 ● CSS { SASS, Bootstrap, Responsive Design }
 
-● JavaScript { jQuery, JSON, AngularJS, React }
+● JavaScript { jQuery, JSON, AJAX, API REST, AngularJS and React.js }
+
+● MySQL
+
+● Git
 
 
 And for the design?
