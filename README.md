@@ -1,4 +1,4 @@
-I'm Alan Aguilar, sometimes also called "Veg", a 21 year old Frontend Developer, Streamer, Musician and Minimalist Graphic Designer based in Santa Fe, Argentina.
+I'm Alan Aguilar, a 21 year old Frontend Developer, Musician and Minimalist Graphic Designer based in Santa Fe, Argentina.
 
 What technologies and softwares are you currently working with?
 
