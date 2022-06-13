@@ -11,7 +11,7 @@ I became so passionate about the profession that little by little I began to cre
 
 ## "What technologies and softwares are you currently working with?"
 
-I currently work with multiple tools, such as:
+Currently I make use of multiple tools, such as:
 
   - HTML
     - Emmet
