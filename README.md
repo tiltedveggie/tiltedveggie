@@ -8,41 +8,34 @@ I became so passionate about the profession that little by little I began to for
 
 <br>
 
-## What technologies and softwares are you currently working with?
+## "What technologies and softwares are you currently working with?"
 
 I currently work with multiple tools, such as:
+
+  - HTML
+    - Emmet
+
+  - CSS
+    - SASS
+    - Bootstrap
+    - Responsive Design
+
+  - JavaScript
+    - jQuery
+    - JSON
+    - AJAX
+    - API REST
+    - AngularJS
+    - React.js
+
+  - PHP & MySQL
+
+  - Firebase
+
+  - Git
 <br>
 
-- HTML
-  - Emmet
-<br>
-
-- CSS
-  - SASS
-  - Bootstrap
-  - Responsive Design
-<br>
-
-- JavaScript
-  - jQuery
-  - JSON
-  - AJAX
-  - API REST
-  - AngularJS
-  - React.js
-<br>
-
-- PHP & MySQL
-<br>
-
-- Firebase
-<br>
-
-- Git
-<br>
-
-
-### And for the design?
+### "And for the design?"
 
   - Figma
 
