@@ -19,6 +19,7 @@ Currently I make use of multiple tools, such as:
   - CSS
     - SASS
     - Bootstrap
+    - Tailwind
     - Responsive Design
 
   - JavaScript
