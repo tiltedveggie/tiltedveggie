@@ -1,24 +1,53 @@
+## Introduction
+
 I'm Alan Aguilar, a 21 year old Frontend Developer, Musician and Minimalist Graphic Designer based in Santa Fe, Argentina.
 
-What technologies and softwares are you currently working with?
+I started venturing into the world of programming when I was 18 years old. I was always interested in absolutely all kinds of technology and programming was something I didn't dare to fully explore... Until I gave it a chance, and to this day it has been one of my best decisions throughout of my life.
 
-● HTML { Emmet }
+I became so passionate about the profession that little by little I began to form several personal projects. And who would say... What was once just another hobby/entertainment, soon became my profession and my job today.
 
-● CSS { SASS, Bootstrap, Responsive Design }
+<br>
 
-● JavaScript { jQuery, JSON, AJAX, API REST, AngularJS and React.js }
+## What technologies and softwares are you currently working with?
 
-● MySQL
+I currently work with multiple tools, such as:
+<br>
 
-● Git
+- HTML
+  - Emmet
+<br>
+
+- CSS
+  - SASS
+  - Bootstrap
+  - Responsive Design
+<br>
+
+- JavaScript
+  - jQuery
+  - JSON
+  - AJAX
+  - API REST
+  - AngularJS
+  - React.js
+<br>
+
+- PHP & MySQL
+<br>
+
+- Firebase
+<br>
+
+- Git
+<br>
 
 
-And for the design?
+### And for the design?
 
-● Figma
+  - Figma
 
-● Adobe Photoshop
+  - Adobe Photoshop
 
-● Adobe Illustrator
+  - Adobe Illustrator
 
-● Adobe Lightroom
+  - Adobe Lightroom
