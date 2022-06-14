@@ -82,6 +82,8 @@ Currently I make use of multiple tools, such as:
 
 <!-- -------------------------------------------------- -->
 
+<br>
+
 <table>
   <thead>
     <tr>
