@@ -26,17 +26,19 @@ Currently I make use of multiple tools, such as:
   
   <tbody>
     <tr>
-      <td>HTML</td>
+      <td align='center'>HTML</td>
       <td>
         <ul>
+          <br>
           <li>Emmet</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>CSS</td>
+      <td align='center'>CSS</td>
       <td>
         <ul>
+          <br>
           <li>SASS</li>
           <li>Bootstrap</li>
           <li>Tailwind</li>
@@ -45,9 +47,10 @@ Currently I make use of multiple tools, such as:
       </td>
     </tr>
     <tr>
-      <td>JavaScript</td>
+      <td align='center'>JavaScript</td>
       <td>
         <ul>
+          <br>
           <li>jQuery</li>
           <li>JSON</li>
           <li>AJAX</li>
@@ -58,24 +61,31 @@ Currently I make use of multiple tools, such as:
       </td>
     </tr>
     <tr>
-      <td>PHP</td>
+      <td align='center'>PHP</td>
       <td>
         <ul>
+          <br>
           <li>Laravel <b>(COMING SOON)</b></li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>MySQL</td>
-      <td align='center'>-</td>
+      <td align='center'>MySQL</td>
+      <td align='center'>
+          <br>-
+          <br></td>
     </tr>
     <tr>
-      <td>Firebase</td>
-      <td align='center'>-</td>
+      <td align='center'>Firebase</td>
+      <td align='center'>
+          <br>-
+          <br></td>
     </tr>
     <tr>
-      <td>Git</td>
-      <td align='center'>-</td>
+      <td align='center'>Git</td>
+      <td align='center'>
+          <br>-
+          <br></td>
     </tr>
   </tbody>
 </table>
@@ -90,22 +100,22 @@ Currently I make use of multiple tools, such as:
       <th colspan='2'> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <br> DESIGN <br> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</th>
     </tr>
     <tr>
-      <th> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <br> Software <br> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</th>
+      <th> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <br> Software <br> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</th>
     </tr>
   </thead>
   
   <tbody>
     <tr>
-      <td>Figma</td>
+      <td align='center'>Figma</td>
     </tr>
     <tr>
-      <td>Adobe Photoshop</td>
+      <td align='center'>Adobe Photoshop</td>
     </tr>
     <tr>
-      <td>Adobe Illustrator</td>
+      <td align='center'>Adobe Illustrator</td>
     </tr>
     <tr>
-      <td>Adobe Lightroom</td>
+      <td align='center'>Adobe Lightroom</td>
     </tr>
   </tbody>
 </table>
