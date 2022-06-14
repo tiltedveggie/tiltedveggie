@@ -13,36 +13,97 @@ I became so passionate about the profession that little by little I began to cre
 
 Currently I make use of multiple tools, such as:
 
-  - HTML
-    - Emmet
+<table>
+  <thead>
+    <tr>
+      <th colspan='2'> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <br> PROGRAMMING <br> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</th>
+    </tr>
+    <tr>
+      <th> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <br> Technology <br> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</th>
+      <th>Framework/Library</th>
+    </tr>
+  </thead>
+  
+  <tbody>
+    <tr>
+      <td>HTML</td>
+      <td>
+        <ul>
+          <li>Emmet</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>CSS</td>
+      <td>
+        <ul>
+          <li>SASS</li>
+          <li>Bootstrap</li>
+          <li>Tailwind</li>
+          <li>Responsive Design</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>JavaScript</td>
+      <td>
+        <ul>
+          <li>jQuery</li>
+          <li>JSON</li>
+          <li>AJAX</li>
+          <li>API REST</li>
+          <li>AngularJS</li>
+          <li>React.js</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>PHP</td>
+      <td>
+        <ul>
+          <li>Laravel <b>(COMING SOON)</b></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>MySQL</td>
+      <td align='center'>-</td>
+    </tr>
+    <tr>
+      <td>Firebase</td>
+      <td align='center'>-</td>
+    </tr>
+    <tr>
+      <td>Git</td>
+      <td align='center'>-</td>
+    </tr>
+  </tbody>
+</table>
 
-  - CSS
-    - SASS
-    - Bootstrap
-    - Tailwind
-    - Responsive Design
+<!-- -------------------------------------------------- -->
 
-  - JavaScript
-    - jQuery
-    - JSON
-    - AJAX
-    - API REST
-    - AngularJS
-    - React.js
-
-  - PHP & MySQL
-
-  - Firebase
-
-  - Git
-<br>
-
-### "And for the design?"
-
-  - Figma
-
-  - Adobe Photoshop
-
-  - Adobe Illustrator
-
-  - Adobe Lightroom
+<table>
+  <thead>
+    <tr>
+      <th colspan='2'> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <br> DESIGN <br> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</th>
+    </tr>
+    <tr>
+      <th> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <br> Software <br> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</th>
+    </tr>
+  </thead>
+  
+  <tbody>
+    <tr>
+      <td>Figma</td>
+    </tr>
+    <tr>
+      <td>Adobe Photoshop</td>
+    </tr>
+    <tr>
+      <td>Adobe Illustrator</td>
+    </tr>
+    <tr>
+      <td>Adobe Lightroom</td>
+    </tr>
+  </tbody>
+</table>
