@@ -39,7 +39,7 @@ Currently I make use of multiple tools, such as:
       <td>
         <ul>
           <br>
-          <li>SASS</li>
+          <li>SASS / SCSS</li>
           <li>Bootstrap</li>
           <li>Tailwind</li>
           <li>Responsive Design</li>
