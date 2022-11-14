@@ -51,7 +51,10 @@ Currently I make use of multiple tools, such as:
           <li>JSON</li>
           <li>AJAX</li>
           <li>API REST</li>
-          <li>AngularJS</li>
+          <li>Three.js</li>
+          <li>GSAP</li>
+          <li>Swiper.js</li>
+          <li>AOS.js</li>
         </ul>
       </td>
     </tr>
