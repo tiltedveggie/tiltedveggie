@@ -15,10 +15,6 @@ Currently I make use of multiple tools, such as:
 
 <table>
   <thead>
-    <tr>
-      <th colspan='2'> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <br> PROGRAMMING <br> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</th>
-    </tr>
-    <tr>
       <th> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <br> Technology <br> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</th>
       <th>Framework/Library</th>
     </tr>
@@ -56,24 +52,30 @@ Currently I make use of multiple tools, such as:
           <li>AJAX</li>
           <li>API REST</li>
           <li>AngularJS</li>
-          <li>React.js</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td align='center'>PHP</td>
+      <td align='center'>React.js</td>
       <td>
         <ul>
           <br>
-          <li>Laravel <b>(COMING SOON)</b></li>
+          <li>Hooks</li>
+          <li>Context</li>
+          <li>Redux</li>
+          <li>React-Router</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td align='center'>MySQL</td>
-      <td align='center'>
-          <br>-
-          <br></td>
+      <td align='center'>Next.js</td>
+      <td>
+        <ul>
+          <br>
+          <li>Image Optimization</li>
+          <li>Dynamic Routes</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td align='center'>Firebase</td>
@@ -87,35 +89,23 @@ Currently I make use of multiple tools, such as:
           <br>-
           <br></td>
     </tr>
-  </tbody>
-</table>
-
-<!-- -------------------------------------------------- -->
-
-<br>
-
-<table>
-  <thead>
     <tr>
-      <th colspan='2'> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <br> DESIGN <br> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</th>
+      <td align='center'>GitHub</td>
+      <td align='center'>
+          <br>-
+          <br></td>
     </tr>
     <tr>
-      <th> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <br> Software <br> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</th>
-    </tr>
-  </thead>
-  
-  <tbody>
-    <tr>
-      <td align='center'>Figma</td>
+      <td align='center'>Vercel</td>
+      <td align='center'>
+          <br>-
+          <br></td>
     </tr>
     <tr>
-      <td align='center'>Adobe Photoshop</td>
-    </tr>
-    <tr>
-      <td align='center'>Adobe Illustrator</td>
-    </tr>
-    <tr>
-      <td align='center'>Adobe Lightroom</td>
+      <td align='center'>Cypress</td>
+      <td align='center'>
+          <br>-
+          <br></td>
     </tr>
   </tbody>
 </table>
