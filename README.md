@@ -1,4 +1,4 @@
-## Introduction
+## Welcome ✨
 
 I'm Alan, a Frontend Developer, Musician and Minimalist Graphic Designer based in Argentina.
 
