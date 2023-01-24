@@ -1,6 +1,6 @@
 ## Introduction
 
-I'm Alan Aguilar, a Frontend Developer, Musician and Minimalist Graphic Designer based in Argentina.
+I'm Alan, a Frontend Developer, Musician and Minimalist Graphic Designer based in Argentina.
 
 I started venturing into the world of programming when I was 18 years old. I was always interested in absolutely all kinds of technology, and programming was something I didn't dare to fully explore... Until I gave it a chance, and to this day it has been one of my best decisions throughout of my life.
 
